@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-f89a24cdd4c0fb6cdb7076c783825a62e31e1c4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-fc8edd70e98806994b6d198a75e713414dc857b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-97bb21ae088e494b914354345dc444244beb93e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-90c7f55cbaf8fe2c866a40a56ea84b5251475c1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-71eaebe4c055d3100643e5b6bc125f745f65dcdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-2cdeda29cdbc2a67d2ce0985ab13715d32739770.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-7ddb224461fbc1ea78405722ee160e8d768a7c8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-b54e30e6379120710c022dce931d9213fc9dd2cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-a3536dd79aaaf543178acc826a121b8e1c21c918.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-3e6282e999fabb0a84fe0e17e542a771c2654f37.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-5fd324f2b833739306b6ab5653dcb9ae08e5d35e.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-a173af7d036b3831f3f2f7a768378c361befc299.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-015b39591532ac1d43dafa4a1fc09cef6b011699.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6d63bfccc9d0976f9016bf9a73fa4d88f7f655ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-41c725e6c52f41b39e508d28b7feed9ffcdbaf21.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-798ab25d5b018b0f771dc9a736c09a773123c314.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-01a90cb97f76854923511b16f3de4383d1e1e48e.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3af14dffd44aa3e175fa90147225c1816c8297cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-8b953df8be44c985ab67aea12fc2cc3c12822e74.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-80d98338079eac418c064da76c845cff3f92e6d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\kuruchan\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="162ede168771c9a1144041acea17a0f545cbd388">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-9a7f2bdc4c67dcaa29709c61cc04bcbf1251ff99.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-20e602207b6c38f3341d477bb984fc503119bcbe.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-8f5bb6cd3c1445419946deedcb04e1d50067a8f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\b1013_000\workspace\kuruchan\app\build\intermediates\pre-dexed\debug\classes-9b30bb354f73ce41a0fd25336cae8f38b22464ee.jar" />
+    </item>
+
+</items>
